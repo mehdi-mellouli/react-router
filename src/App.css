@@ -1,0 +1,69 @@
+body{
+    background-color: #264653;
+    color: #fff;
+}
+#card{
+    background-color: #001219;
+    color: beige;
+}
+#container{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+a{
+    text-decoration: none;
+    color: #39FF14;
+}
+#box{
+    background-color: #001219;
+    color: #fff;
+    width: 100%;
+}
+#nav-bar{
+    width: 100%;
+    padding: 0;
+}
+#search{
+    color: #fff;
+    font-size: 20px;
+}
+.navbar-brand{
+    color: #fff;
+    font-size: 25px;
+    font-weight: bolder;
+}
+#flix{
+    color: #9d0208;
+}
+#rate{
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+    justify-content: space-between;
+}
+#rating-number{
+    font-size: 25px;
+    font-weight:500;
+    margin-right: 15px;
+}
+#not-found{
+    margin-top: 15px;
+    margin-left: 33%;
+    margin-right: 33%;
+    font-weight: 400;
+}
+#add-movie-btn{
+    margin-top: 20px;
+    margin-left: 43%;
+    background-color: #001219;
+
+}
+#form-label{
+    font-weight: 400;
+    
+}
+#modal{
+    background-color: #001219;
+}
